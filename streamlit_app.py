@@ -9,7 +9,7 @@ streamlit.text('🥣 Omega 3 And Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach And Rocket Smoothie')
 streamlit.text('🐔 Hard-Boiled And Free-Range Eggs')
 streamlit.text('🥑🍞 Avagado toast')
-
+streamlit.stop()
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 # import pandas
